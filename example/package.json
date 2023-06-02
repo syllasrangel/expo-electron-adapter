@@ -10,6 +10,7 @@
     "expo": "^41.0.1",
     "react": "16.13.1",
     "react-dom": "16.13.1",
+    "react-native": "^0.71.8",
     "react-native-web": "~0.13.7",
     "source-map-support": "^0.5.16"
   },
