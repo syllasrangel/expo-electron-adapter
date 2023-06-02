@@ -7,16 +7,16 @@
     "test:build": "electron-webpack && electron-builder --dir -c.compression=store -c.mac.identity=null"
   },
   "dependencies": {
-    "expo": "^41.0.1",
-    "react": "16.13.1",
-    "react-dom": "16.13.1",
-    "react-native": "^0.71.8",
-    "react-native-web": "~0.13.7",
+    "expo": "^46.0.0",
+    "react": "18.0.0",
+    "react-dom": "18.0.0",
+    "react-native": "0.69.9",
+    "react-native-web": "~0.18.7",
     "source-map-support": "^0.5.16"
   },
   "devDependencies": {
-    "electron": "5.0.6",
-    "electron-builder": "^21.0.11",
-    "electron-webpack": "^2.7.4"
+    "electron": "^17.1.0",
+    "electron-builder": "^22.11.7",
+    "electron-webpack": "^2.8.2"
   }
 }
